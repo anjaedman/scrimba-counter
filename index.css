@@ -1,0 +1,58 @@
+body {
+  background-image: url("nature.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  height: 100vh;
+
+}
+
+#mainContainer {
+    background: rgb(243, 238, 238, 0.3) ;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+button {
+    border: 2px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+#increment-btn {
+  background: rgb(137, 52, 52);
+}
+
+#save-btn {
+  background: darkgreen; 
+  margin-top: 20px;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
+#total-btn {
+  background: rgb(81, 128, 81);
+}
