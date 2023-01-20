@@ -26,12 +26,6 @@ function save() {
 
 
 
-
-
-
-
-
-
 // let welcomeEl = document.getElementById("welcome-el")
 // let name = "Anja Clavebring"
 // let greeting = "Welcome back! "
